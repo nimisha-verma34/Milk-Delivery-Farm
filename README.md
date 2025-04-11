@@ -2,7 +2,6 @@
 
 Welcome to our milk farm's official website. Dive in to discover the pure, organic, and fresh milk products that we provide straight from our farm to your table. My Milk Farm offers more than just milk. It is an all-in-one platform for dairy enthusiasts and regular consumers, ensuring quality, purity, and the sheer joy of farm-fresh products at your doorstep.
 
-![Milk Farm Screenshot](https://github.com/supriya811106/Milk-Delivery-Farm/assets/89856408/81cc6948-7660-4602-985a-ae82ee6450d3)
 
 ## 🌍 [Live Demo](https://milk-farm.onrender.com/)
 
@@ -51,5 +50,5 @@ Click the link above to explore our products, know our story, and understand our
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/supriya811106/Milk-Delivery-Farm.git
+git clone https://github.com/nimisha-verma34/Milk-Delivery-Farm.git
 cd Milk-Delivery-Farm
